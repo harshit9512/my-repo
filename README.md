@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hshaink4u
-- 👀 I’m interested in development
+- 👀 I’m interested in web development etc.
 - 🌱 I’m currently learning full stack web dev and python. 
 - 💞️ I’m looking to collaborate on web dev projects.
 - 📫 How to reach me - email@ hshaink4u@gmail.com
